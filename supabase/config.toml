@@ -1,0 +1,4 @@
+# Used by the GitHub deploy action. The function checks department PINs itself,
+# and browsers call it with the public "publishable" key, so the platform JWT check is off.
+[functions.race-api]
+verify_jwt = false
