@@ -4,5 +4,5 @@
 window.RWO_CONFIG = {
   url: 'https://ribaholsaahqjtgtjbsu.supabase.co/',          // e.g. 'https://abcdefghijklmnop.supabase.co'
   key: 'sb_publishable_UizUx3bXNY8gzvrquvBbfA_jHOLCA0O',          // the Publishable key (starts with sb_publishable_). Safe to be public.
-  fn: 'race-api'    // name of the server function
+  fn: 'smart-worker'    // name of the server function
 };
